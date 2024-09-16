@@ -38,7 +38,8 @@ The concatenated dataframe is converted into csv file and stored in the SQL data
 The data is stored in the form of tables.
 
 Web App - streamlit:
- With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices. The streamlit app is built and many filters are used for easy access for the users. The code for Streamlit was done using python. 
+
+With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices. The streamlit app is built and many filters are used for easy access for the users. The code for Streamlit was done using python. 
 
 
 
